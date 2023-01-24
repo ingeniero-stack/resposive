@@ -1,0 +1,1 @@
+A  basic QR code that has css resposiveness
